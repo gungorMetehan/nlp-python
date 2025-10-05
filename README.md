@@ -1,2 +1,6 @@
 # nlp-python
 Natural Language Processing in Python
+
+This repository contains a collection of Python scripts demonstrating key Natural Language Processing (NLP) techniques and workflows. Each file focuses on a specific stage of the NLP pipeline — from data cleaning and preprocessing to tokenization, text normalization, and sentiment analysis. The goal of this project is to provide clear, modular, and reproducible code examples that help learners and practitioners understand how to implement core NLP concepts in Python.
+
+* [Text Cleaning](https://github.com/gungorMetehan/nlp-python/blob/main/01_text_cleaning.py)
