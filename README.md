@@ -6,3 +6,4 @@ This repository contains a collection of Python scripts demonstrating key Natura
 * [Text Cleaning](https://github.com/gungorMetehan/nlp-python/blob/main/01_text_cleaning.py)
 * [Tokenization](https://github.com/gungorMetehan/nlp-python/blob/main/02_tokenization.py)
 * [Stemming and Lemmatization](https://github.com/gungorMetehan/nlp-python/blob/main/03_stemming_and_lemmatization.py)
+* [Stop Words Removal](https://github.com/gungorMetehan/nlp-python/blob/main/04_stop_words_removal.py)
