@@ -8,4 +8,6 @@ This repository contains a collection of Python scripts demonstrating key Natura
 * [Stop Words Removal](https://github.com/gungorMetehan/nlp-python/blob/main/04_stop_words_removal.py)
 * [Bag of Words](https://github.com/gungorMetehan/nlp-python/blob/main/05_bag_of_words.py)
 * [TF-IDF](https://github.com/gungorMetehan/nlp-python/blob/main/06_tfidf.py)
-* [N-Grams (Text Representation)](https://github.com/gungorMetehan/nlp-python/blob/main/07_n-grams.py)
+* [Word2Vec (Word Embedding)](https://github.com/gungorMetehan/nlp-python/blob/main/08_word2vec.py)
+* [FastText (Word Embedding)](https://github.com/gungorMetehan/nlp-python/blob/main/09_fasttext.py)
+* [N-Grams (Text Representation)](https://github.com/gungorMetehan/nlp-python/blob/main/10_plm_n_grams.py)
