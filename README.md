@@ -12,3 +12,4 @@ This repository contains a collection of Python scripts demonstrating key Natura
 * [Word2Vec (Word Embedding)](https://github.com/gungorMetehan/nlp-python/blob/main/08_word2vec.py)
 * [FastText (Word Embedding)](https://github.com/gungorMetehan/nlp-python/blob/main/09_fasttext.py)
 * [N-Gram Models (Probabilistic Language Models)](https://github.com/gungorMetehan/nlp-python/blob/main/10_plm_n_grams.py)
+* [Hidden Markov Models (Probabilistic Language Models)](https://github.com/gungorMetehan/nlp-python/blob/main/11_hidden_markov_models.py)
