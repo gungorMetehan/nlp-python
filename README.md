@@ -15,3 +15,4 @@ This repository contains a collection of Python scripts demonstrating key Natura
 * [Hidden Markov Models (Probabilistic Language Models)](https://github.com/gungorMetehan/nlp-python/blob/main/11_hidden_markov_models.py)
 * [Maximum Entropy Models (Probabilistic Language Models)](https://github.com/gungorMetehan/nlp-python/blob/main/12_maximum_entropy_model.py)
 * [RNN (Deep Learning)](https://github.com/gungorMetehan/nlp-python/blob/main/13_RNN.py)
+* [LSTM (Deep Learning)](https://github.com/gungorMetehan/nlp-python/blob/main/14_lstm.py)
