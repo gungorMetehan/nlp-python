@@ -17,3 +17,4 @@ This repository contains a collection of Python scripts demonstrating key Natura
 * [RNN (Deep Learning)](https://github.com/gungorMetehan/nlp-python/blob/main/13_RNN.py)
 * [LSTM (Deep Learning)](https://github.com/gungorMetehan/nlp-python/blob/main/14_lstm.py)
 * [GPT (Deep Learning)](https://github.com/gungorMetehan/nlp-python/blob/main/15_gpt.py)
+* [LLaMA (Deep Learning)](https://github.com/gungorMetehan/nlp-python/blob/main/16_llama.py)
