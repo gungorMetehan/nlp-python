@@ -20,3 +20,4 @@ This repository contains a collection of Python scripts demonstrating key Natura
 * [GPT (Transformers)](https://github.com/gungorMetehan/nlp-python/blob/main/16_gpt.py)
 * [LLaMA (Transformers)](https://github.com/gungorMetehan/nlp-python/blob/main/17_llama.py)
 * [T5 (Transformers)](https://github.com/gungorMetehan/nlp-python/blob/main/18_t5.py)
+* [Text Classification w/ Decision Trees](https://github.com/gungorMetehan/nlp-python/blob/main/19_text_classification_decision_trees.py)
