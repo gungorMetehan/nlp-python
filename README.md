@@ -19,3 +19,4 @@ This repository contains a collection of Python scripts demonstrating key Natura
 * [BERT (Transformers)](https://github.com/gungorMetehan/nlp-python/blob/main/15_bert.py)
 * [GPT (Transformers)](https://github.com/gungorMetehan/nlp-python/blob/main/16_gpt.py)
 * [LLaMA (Transformers)](https://github.com/gungorMetehan/nlp-python/blob/main/17_llama.py)
+* [T5 (Transformers)](https://github.com/gungorMetehan/nlp-python/blob/main/18_t5.py)
