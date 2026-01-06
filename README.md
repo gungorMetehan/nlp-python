@@ -22,3 +22,4 @@ This repository contains a collection of Python scripts, prepared by me, demonst
 * [T5 (Transformers)](https://github.com/gungorMetehan/nlp-python/blob/main/18_t5.py)
 * [Text Classification w/ Decision Trees](https://github.com/gungorMetehan/nlp-python/blob/main/19_text_classification_decision_trees.py)
 * [Named Entity Recognition](https://github.com/gungorMetehan/nlp-python/blob/main/20_ner.py)
+* [Morphological Analysis (spaCy)](https://github.com/gungorMetehan/nlp-python/blob/main/21_morphological_analysis.py)
