@@ -24,3 +24,4 @@ This repository contains a collection of Python scripts, prepared by me, demonst
 * [Named Entity Recognition](https://github.com/gungorMetehan/nlp-python/blob/main/20_ner.py)
 * [Morphological Analysis (spaCy)](https://github.com/gungorMetehan/nlp-python/blob/main/21_morphological_analysis.py)
 * [Part-of-Speech (POS) Tagging](https://github.com/gungorMetehan/nlp-python/blob/main/22_pos_tagging.py)
+* [Word Sense Disambiguation (Lesk)](https://github.com/gungorMetehan/nlp-python/blob/main/23_word_sense_disambiguation_lesk.py)
