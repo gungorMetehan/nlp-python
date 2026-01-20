@@ -2,28 +2,52 @@
 
 This repository contains a collection of Python scripts, prepared by me, demonstrating key Natural Language Processing (NLP) techniques and workflows. Each file focuses on a specific stage of the NLP pipeline — from data cleaning and preprocessing to tokenization, text normalization, and sentiment analysis. The goal of this project is to provide clear, modular, and reproducible code examples that help learners and practitioners understand how to implement core NLP concepts in Python.
 
-* [Text Cleaning](https://github.com/gungorMetehan/nlp-python/blob/main/01_text_cleaning.py)
-* [Tokenization](https://github.com/gungorMetehan/nlp-python/blob/main/02_tokenization.py)
-* [Stemming and Lemmatization](https://github.com/gungorMetehan/nlp-python/blob/main/03_stemming_and_lemmatization.py)
-* [Stop Words Removal](https://github.com/gungorMetehan/nlp-python/blob/main/04_stop_words_removal.py)
-* [Bag of Words](https://github.com/gungorMetehan/nlp-python/blob/main/05_bag_of_words.py)
-* [TF-IDF](https://github.com/gungorMetehan/nlp-python/blob/main/06_tfidf.py)
-* [N-Grams (Text Representation)](https://github.com/gungorMetehan/nlp-python/blob/main/07_n-grams.py)
-* [Word2Vec (Word Embedding)](https://github.com/gungorMetehan/nlp-python/blob/main/08_word2vec.py)
-* [FastText (Word Embedding)](https://github.com/gungorMetehan/nlp-python/blob/main/09_fasttext.py)
-* [N-Gram Models (Probabilistic Language Models)](https://github.com/gungorMetehan/nlp-python/blob/main/10_plm_n_grams.py)
-* [Hidden Markov Models (Probabilistic Language Models)](https://github.com/gungorMetehan/nlp-python/blob/main/11_hidden_markov_models.py)
-* [Maximum Entropy Models (Probabilistic Language Models)](https://github.com/gungorMetehan/nlp-python/blob/main/12_maximum_entropy_model.py)
-* [RNN (Deep Learning)](https://github.com/gungorMetehan/nlp-python/blob/main/13_RNN.py)
-* [LSTM (Deep Learning)](https://github.com/gungorMetehan/nlp-python/blob/main/14_lstm.py)
-* [BERT (Transformers)](https://github.com/gungorMetehan/nlp-python/blob/main/15_bert.py)
-* [GPT (Transformers)](https://github.com/gungorMetehan/nlp-python/blob/main/16_gpt.py)
-* [LLaMA (Transformers)](https://github.com/gungorMetehan/nlp-python/blob/main/17_llama.py)
-* [T5 (Transformers)](https://github.com/gungorMetehan/nlp-python/blob/main/18_t5.py)
-* [Text Classification w/ Decision Trees](https://github.com/gungorMetehan/nlp-python/blob/main/19_text_classification_decision_trees.py)
-* [Named Entity Recognition](https://github.com/gungorMetehan/nlp-python/blob/main/20_ner.py)
-* [Morphological Analysis (spaCy)](https://github.com/gungorMetehan/nlp-python/blob/main/21_morphological_analysis.py)
-* [Part-of-Speech (POS) Tagging](https://github.com/gungorMetehan/nlp-python/blob/main/22_pos_tagging.py)
-* [Word Sense Disambiguation (Lesk)](https://github.com/gungorMetehan/nlp-python/blob/main/23_word_sense_disambiguation_lesk.py)
-* [Sentiment Analysis](https://github.com/gungorMetehan/nlp-python/blob/main/24_sentiment_analysis.py)
-* [Question Answering with Transformers](https://github.com/gungorMetehan/nlp-python/blob/main/25_question_answering_with_transformers.py)
+🔹 [Text Cleaning](https://github.com/gungorMetehan/nlp-python/blob/main/01_text_cleaning.py)
+
+🔹 [Tokenization](https://github.com/gungorMetehan/nlp-python/blob/main/02_tokenization.py)
+
+🔹 [Stemming and Lemmatization](https://github.com/gungorMetehan/nlp-python/blob/main/03_stemming_and_lemmatization.py)
+
+🔹 [Stop Words Removal](https://github.com/gungorMetehan/nlp-python/blob/main/04_stop_words_removal.py)
+
+🔹 [Bag of Words](https://github.com/gungorMetehan/nlp-python/blob/main/05_bag_of_words.py)
+
+🔹 [TF-IDF](https://github.com/gungorMetehan/nlp-python/blob/main/06_tfidf.py)
+
+🔹 [N-Grams (Text Representation)](https://github.com/gungorMetehan/nlp-python/blob/main/07_n-grams.py)
+
+🔹 [Word2Vec (Word Embedding)](https://github.com/gungorMetehan/nlp-python/blob/main/08_word2vec.py)
+
+🔹 [FastText (Word Embedding)](https://github.com/gungorMetehan/nlp-python/blob/main/09_fasttext.py)
+
+🔹 [N-Gram Models (Probabilistic Language Models)](https://github.com/gungorMetehan/nlp-python/blob/main/10_plm_n_grams.py)
+
+🔹 [Hidden Markov Models (Probabilistic Language Models)](https://github.com/gungorMetehan/nlp-python/blob/main/11_hidden_markov_models.py)
+
+🔹 [Maximum Entropy Models (Probabilistic Language Models)](https://github.com/gungorMetehan/nlp-python/blob/main/12_maximum_entropy_model.py)
+
+🔹 [RNN (Deep Learning)](https://github.com/gungorMetehan/nlp-python/blob/main/13_RNN.py)
+
+🔹 [LSTM (Deep Learning)](https://github.com/gungorMetehan/nlp-python/blob/main/14_lstm.py)
+
+🔹 [BERT (Transformers)](https://github.com/gungorMetehan/nlp-python/blob/main/15_bert.py)
+
+🔹 [GPT (Transformers)](https://github.com/gungorMetehan/nlp-python/blob/main/16_gpt.py)
+
+🔹 [LLaMA (Transformers)](https://github.com/gungorMetehan/nlp-python/blob/main/17_llama.py)
+
+🔹 [T5 (Transformers)](https://github.com/gungorMetehan/nlp-python/blob/main/18_t5.py)
+
+🔹 [Text Classification w/ Decision Trees](https://github.com/gungorMetehan/nlp-python/blob/main/19_text_classification_decision_trees.py)
+
+🔹 [Named Entity Recognition](https://github.com/gungorMetehan/nlp-python/blob/main/20_ner.py)
+
+🔹 [Morphological Analysis (spaCy)](https://github.com/gungorMetehan/nlp-python/blob/main/21_morphological_analysis.py)
+
+🔹 [Part-of-Speech (POS) Tagging](https://github.com/gungorMetehan/nlp-python/blob/main/22_pos_tagging.py)
+
+🔹 [Word Sense Disambiguation (Lesk)](https://github.com/gungorMetehan/nlp-python/blob/main/23_word_sense_disambiguation_lesk.py)
+
+🔹 [Sentiment Analysis](https://github.com/gungorMetehan/nlp-python/blob/main/24_sentiment_analysis.py)
+
+🔹 [Question Answering with Transformers](https://github.com/gungorMetehan/nlp-python/blob/main/25_question_answering_with_transformers.py)
