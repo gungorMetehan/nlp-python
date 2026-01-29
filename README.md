@@ -51,3 +51,5 @@ This repository contains a collection of Python scripts, prepared by me, demonst
 🔹 [Sentiment Analysis](https://github.com/gungorMetehan/nlp-python/blob/main/24_sentiment_analysis.py)
 
 🔹 [Question Answering with Transformers](https://github.com/gungorMetehan/nlp-python/blob/main/25_question_answering_with_transformers.py)
+
+🔹 [Semantic Information Retrieval](https://github.com/gungorMetehan/nlp-python/blob/main/26_semantic_information_retrieval.py)
