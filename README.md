@@ -55,3 +55,7 @@ This repository contains a collection of Python scripts, prepared by me, demonst
 🔹 [Semantic Information Retrieval](https://github.com/gungorMetehan/nlp-python/blob/main/26_semantic_information_retrieval.py)
 
 🔹 [Content Based Recommendation System with BERT](https://github.com/gungorMetehan/nlp-python/blob/main/27_content_based_recommendation_with_bert.py)
+
+🔹 [Machine Translation (NLLB)](https://github.com/gungorMetehan/nlp-python/blob/main/28_machine_translation_nllb.py)
+
+🔹 [Machine Translation (Marian)](https://github.com/gungorMetehan/nlp-python/blob/main/29_machine_translation_marian.py)
