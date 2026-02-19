@@ -59,3 +59,5 @@ This repository contains a collection of Python scripts, prepared by me, demonst
 🔹 [Machine Translation (NLLB)](https://github.com/gungorMetehan/nlp-python/blob/main/28_machine_translation_nllb.py)
 
 🔹 [Machine Translation (Marian)](https://github.com/gungorMetehan/nlp-python/blob/main/29_machine_translation_marian.py)
+
+🔹 [Text Summarization](https://github.com/gungorMetehan/nlp-python/blob/main/30_text_summarization.py)
