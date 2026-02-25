@@ -61,3 +61,5 @@ This repository contains a collection of Python scripts, prepared by me, demonst
 🔹 [Machine Translation (Marian)](https://github.com/gungorMetehan/nlp-python/blob/main/29_machine_translation_marian.py)
 
 🔹 [Text Summarization](https://github.com/gungorMetehan/nlp-python/blob/main/30_text_summarization.py)
+
+🔹 [ChatBot with OpenAI](https://github.com/gungorMetehan/nlp-python/blob/main/31_chatbot_with_openai.py)
